@@ -1,0 +1,16 @@
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.csproj.AssemblyReference.cache
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.Properties.Resources.resources
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.Form1.resources
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.csproj.GenerateResource.cache
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\bin\Debug\ShoeStore.exe.config
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\bin\Debug\ShoeStore.exe
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\bin\Debug\ShoeStore.pdb
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.exe
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.pdb
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.View.FormImportExport.resources
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.View.FormMain.resources
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.View.FormInventory.resources
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.View.FormStatistics.resources
+C:\Users\hungn\OneDrive\Documents\C sharp\Final\ShoeStore\ShoeStore\obj\Debug\ShoeStore.View.FormDeli.resources
